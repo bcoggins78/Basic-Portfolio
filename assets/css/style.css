@@ -51,6 +51,11 @@ li a {
     text-decoration: none;
 }
 
+.hover a:hover{
+    background: #4aaaa5;
+    color: #ffffff;
+}
+
 .container {
     width: 960px;
     margin: auto;
